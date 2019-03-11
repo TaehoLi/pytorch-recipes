@@ -1,2 +1,3 @@
 # pytorch-recipes
-book
+
+_Author: Pradeepta Mishra_
